@@ -1,7 +1,7 @@
 # Machine-Learning-Tutorial-Questions
 This is a file containing the solution to the programming exercises in the Machine Learning Course Coursera course taught by Andrew Ng.
 
-##Content
+## Content
 - Ex1  Linear regression
 - Ex2  Logitic regression
 - Ex3  One-vs-all logistic regression (multi-class logistic regression) and creating the neural networks for recognising hand-written digits. =
