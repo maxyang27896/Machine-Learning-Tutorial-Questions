@@ -1,2 +1,2 @@
 # Machine-Learning-Tutorial-Questions
-Completed tutorial exercises from the Introduction to Machine Learning Coursera course.
+This is a file containing the solution to the exercises in the Machine Learning Course Coursera course taught by Andrew Ng.
