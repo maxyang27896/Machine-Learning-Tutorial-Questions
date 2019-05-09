@@ -10,3 +10,4 @@ This is a file containing the solution to the programming exercises in the Machi
 - Ex6  Support vector machine for spam calssifier
 - Ex7  K-means clustering and principle component analysis for image compression
 - Ex8  Anomaly detection and recommender system 
+Hello
