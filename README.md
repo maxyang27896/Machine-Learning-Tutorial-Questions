@@ -4,7 +4,7 @@ This is a file containing the solution to the programming exercises in the Machi
 ## Content
 - Ex1  Linear regression
 - Ex2  Logitic regression
-- Ex3  One-vs-all logistic regression (multi-class logistic regression) and creating the neural networks for recognising hand-written digits. =
+- Ex3  One-vs-all logistic regression (multi-class logistic regression) and creating the neural networks for recognising hand-written digits.
 - Ex4  Backpropagation of neural network applied to recognising hand-written digits
 - Ex5  Bias vs variance analysis
 - Ex6  Support vector machine for spam calssifier
